@@ -781,7 +781,7 @@ dimwishlist:item=1896309757&perks=1482024992,1561002382,1870851715,2213355989
 
 
 // Hammerhead - Hammerhead (pve)
-//notes: More bullets good, keep out and keep firing.  Maybe Armamentarium tags:pve
+//notes: Fallout Plays - https://youtu.be/wuzj724A9Uo - More bullets good, keep out and keep firing.  Maybe Armamentarium tags:pve
 dimwishlist:item=1896309757&perks=2420895100,968510818,557221067
 dimwishlist:item=1896309757&perks=2420895100,3418782618,557221067
 dimwishlist:item=1896309757&perks=1087426260,968510818,557221067
@@ -789,17 +789,17 @@ dimwishlist:item=1896309757&perks=1087426260,3418782618,557221067
 
 
 // Hammerhead - Hammerhead (pve)
-//notes: 73% more damage. tags:pve
+//notes: Fallout Plays - https://youtu.be/wuzj724A9Uo - 73% more damage. tags:pve
 dimwishlist:item=1896309757&perks=3425386926,557221067
 
 
 // Hammerhead - Hammerhead (pve)
-//notes: Quick trash clear.  Gun go brrrrrr.  Not easy to use. tags:pve
+//notes: Fallout Plays - https://youtu.be/wuzj724A9Uo - Quick trash clear.  Gun go brrrrrr.  Not easy to use. tags:pve
 dimwishlist:item=1896309757&perks=3425386926,95528736
 
 
 // Hammerhead - Hammerhead ()
-//notes: Void centric.  Keep one.
+//notes: Fallout Plays - https://youtu.be/wuzj724A9Uo - Void centric.  Keep one.
 dimwishlist:item=1896309757&perks=2048641572,557221067
 dimwishlist:item=1896309757&perks=2048641572,3708227201
 dimwishlist:item=1896309757&perks=2048641572,95528736

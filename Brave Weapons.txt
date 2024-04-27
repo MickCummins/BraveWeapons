@@ -2350,3 +2350,214 @@ dimwishlist:item=1983149589&perks=4090651448,3142289711,3337692349,3465198467,37
 dimwishlist:item=1983149589&perks=4090651448,3142289711,777589559,1067908860,3732232161
 dimwishlist:item=1983149589&perks=4090651448,3142289711,777589559,3465198467,3732232161
 
+
+// Drang (Baroque) - Drang (Baroque) (god-pvp)
+//notes: Daltnix PVP Weapons https://youtu.be/una02WnDHic Great in PVP tags:god-pvp
+dimwishlist:item=79075821&perks=699525795,3425386926
+dimwishlist:item=79075821&perks=699525795,4082225868
+dimwishlist:item=79075821&perks=699525795,2387244414
+dimwishlist:item=79075821&perks=588594999,3425386926
+dimwishlist:item=79075821&perks=588594999,4082225868
+dimwishlist:item=79075821&perks=588594999,2387244414
+
+
+// Luna's Howl - Luna's Howl (god-pvp)
+//notes: Daltnix PVP Weapons https://youtu.be/una02WnDHic Great in PVP tags:god-pvp
+dimwishlist:item=153979396&perks=1392496348,4134353779,2387244414,2720533289
+
+
+// Ace of Spades - Ace of Spades (god-pve)
+//notes: Daltnix PVP Weapons https://youtu.be/una02WnDHic Great in PVP. tags:god-pve
+dimwishlist:item=347366834&perks=4090651448,1561002382,1561789734,3326204863
+
+
+// Drang (Baroque) - Drang (Baroque) (god-pvp)
+//notes: Daltnix PVP Weapons https://youtu.be/una02WnDHic Great in PVP tags:god-pvp
+dimwishlist:item=502356570&perks=588594999,3425386926
+dimwishlist:item=502356570&perks=588594999,2387244414
+dimwishlist:item=502356570&perks=588594999,1748774930
+dimwishlist:item=502356570&perks=588594999,4082225868
+dimwishlist:item=502356570&perks=588594999,288411554
+dimwishlist:item=502356570&perks=588594999,1161469972
+dimwishlist:item=502356570&perks=2717805783,3425386926
+dimwishlist:item=502356570&perks=2717805783,2387244414
+dimwishlist:item=502356570&perks=2717805783,1748774930
+dimwishlist:item=502356570&perks=2717805783,4082225868
+dimwishlist:item=502356570&perks=2717805783,288411554
+dimwishlist:item=502356570&perks=2717805783,1161469972
+dimwishlist:item=502356570&perks=699525795,3425386926
+dimwishlist:item=502356570&perks=699525795,2387244414
+dimwishlist:item=502356570&perks=699525795,1748774930
+dimwishlist:item=502356570&perks=699525795,4082225868
+dimwishlist:item=502356570&perks=699525795,288411554
+dimwishlist:item=502356570&perks=699525795,1161469972
+dimwishlist:item=502356570&perks=3719974635,3425386926
+dimwishlist:item=502356570&perks=3719974635,2387244414
+dimwishlist:item=502356570&perks=3719974635,1748774930
+dimwishlist:item=502356570&perks=3719974635,4082225868
+dimwishlist:item=502356570&perks=3719974635,288411554
+dimwishlist:item=502356570&perks=3719974635,1161469972
+
+
+// Rose - Rose (god-pvp)
+//notes: Daltnix PVP Weapons https://youtu.be/una02WnDHic Get from focusing at Shaxx.  Slideshot best.   Eye of the Storm best.  Awesome for Hunters, as it increase Mobility by 2 Stacks, allowing you to lower your mobility to 80% but still have max mobility tags:god-pvp
+dimwishlist:item=882778888&perks=588594999,699525795
+dimwishlist:item=882778888&perks=588594999,957782887
+dimwishlist:item=882778888&perks=588594999,47981717
+dimwishlist:item=882778888&perks=588594999,3038247973
+dimwishlist:item=882778888&perks=3511092054,699525795
+dimwishlist:item=882778888&perks=3511092054,957782887
+dimwishlist:item=882778888&perks=3511092054,47981717
+dimwishlist:item=882778888&perks=3511092054,3038247973
+dimwishlist:item=882778888&perks=3161816588,699525795
+dimwishlist:item=882778888&perks=3161816588,957782887
+dimwishlist:item=882778888&perks=3161816588,47981717
+dimwishlist:item=882778888&perks=3161816588,3038247973
+dimwishlist:item=882778888&perks=247725512,699525795
+dimwishlist:item=882778888&perks=247725512,957782887
+dimwishlist:item=882778888&perks=247725512,47981717
+dimwishlist:item=882778888&perks=247725512,3038247973
+
+
+// The Summoner (Adept) - The Summoner (Adept) (god-pvp)
+//notes: Daltnix PVP Weapons https://youtu.be/una02WnDHic Great in PVP.  Zen Moment or Heal Clip.   tags:god-pvp
+dimwishlist:item=1292594730&perks=3017780555,1890422124
+dimwishlist:item=1292594730&perks=3017780555,1015611457
+dimwishlist:item=1292594730&perks=3017780555,95528736
+dimwishlist:item=1292594730&perks=3017780555,2610012052
+dimwishlist:item=1292594730&perks=2387244414,1890422124
+dimwishlist:item=1292594730&perks=2387244414,1015611457
+dimwishlist:item=1292594730&perks=2387244414,95528736
+dimwishlist:item=1292594730&perks=2387244414,2610012052
+dimwishlist:item=1292594730&perks=1359896290,1890422124
+dimwishlist:item=1292594730&perks=1359896290,1015611457
+dimwishlist:item=1292594730&perks=1359896290,95528736
+dimwishlist:item=1292594730&perks=1359896290,2610012052
+dimwishlist:item=1292594730&perks=1428297954,1890422124
+dimwishlist:item=1292594730&perks=1428297954,1015611457
+dimwishlist:item=1292594730&perks=1428297954,95528736
+dimwishlist:item=1292594730&perks=1428297954,2610012052
+
+
+// Hung Jury SR4 - Hung Jury SR4 (god-pvp)
+//notes: Daltnix PVP Weapons https://youtu.be/una02WnDHic Box Breathing perk makes the weapon on large maps tags:god-pvp
+dimwishlist:item=1453235079&perks=2866798147,2551157718
+dimwishlist:item=1453235079&perks=247725512,2551157718
+
+
+// No Time to Explain -  No Time to Explain (god-pvp)
+//notes: Daltnix PVP Weapons https://youtu.be/una02WnDHic Great in PVP tags:god-pvp
+dimwishlist:item=1594120904&perks=1840239774,3142289711,3556949035,2779035018
+
+
+// The Summoner - The Summoner (god-pvp)
+//notes: Daltnix PVP Weapons https://youtu.be/una02WnDHic Great in PVP.  Zen Moment or Heal Clip.   tags:god-pvp
+dimwishlist:item=1820994983&perks=3017780555,1890422124
+dimwishlist:item=1820994983&perks=3017780555,1015611457
+dimwishlist:item=1820994983&perks=3017780555,95528736
+dimwishlist:item=1820994983&perks=3017780555,2610012052
+dimwishlist:item=1820994983&perks=2387244414,1890422124
+dimwishlist:item=1820994983&perks=2387244414,1015611457
+dimwishlist:item=1820994983&perks=2387244414,95528736
+dimwishlist:item=1820994983&perks=2387244414,2610012052
+dimwishlist:item=1820994983&perks=1359896290,1890422124
+dimwishlist:item=1820994983&perks=1359896290,1015611457
+dimwishlist:item=1820994983&perks=1359896290,95528736
+dimwishlist:item=1820994983&perks=1359896290,2610012052
+dimwishlist:item=1820994983&perks=1428297954,1890422124
+dimwishlist:item=1820994983&perks=1428297954,1015611457
+dimwishlist:item=1820994983&perks=1428297954,95528736
+dimwishlist:item=1820994983&perks=1428297954,2610012052
+
+
+// Hammerhead - Hammerhead (god-pvp)
+//notes: Daltnix PVP Weapons https://youtu.be/una02WnDHic Great in PVP for kill chaining tags:god-pvp
+dimwishlist:item=1896309757&perks=3425386926,557221067
+dimwishlist:item=1896309757&perks=1354429876,557221067
+
+
+// Igneous Hammer - Igneous Hammer (god-pvp)
+//notes: Daltnix PVP Weapons https://youtu.be/una02WnDHic Keep Away best. Precision Instrument best. tags:god-pvp
+dimwishlist:item=1973107014&perks=3619207468,555281244
+dimwishlist:item=1973107014&perks=247725512,555281244
+
+
+// Forerunner - Daltnix PVP Weapons Forerunner (god-pvp)
+//notes: Daltnix PVP Weapons https://youtu.be/una02WnDHic Great in PVP tags:god-pvp
+dimwishlist:item=2179048386&perks=1482024992,3230963543,2795311559,3326204863
+
+
+// Igneous Hammer (Adept) - Igneous Hammer (Adept) (god-pvp)
+//notes: Daltnix PVP Weapons https://youtu.be/una02WnDHic Keep Away best. Precision Instrument best. tags:god-pvp
+dimwishlist:item=2314610827&perks=3619207468,555281244
+dimwishlist:item=2314610827&perks=247725512,555281244
+
+
+// Elsie's Rifle - Elsie's Rifle (god-pvp)
+//notes: Daltnix PVP Weapons https://youtu.be/una02WnDHic Base stats are incredibly strong.  Keep Away preferred.  Highly recommended weapon tags:god-pvp
+dimwishlist:item=2372514509&perks=2387244414,1015611457
+dimwishlist:item=2372514509&perks=2387244414,460017080
+dimwishlist:item=2372514509&perks=2387244414,3047969693
+dimwishlist:item=2372514509&perks=3619207468,1015611457
+dimwishlist:item=2372514509&perks=3619207468,460017080
+dimwishlist:item=2372514509&perks=3619207468,3047969693
+
+
+// Midnight Coup - Midnight Coup (god-pvp)
+//notes: Daltnix PVP Weapons https://youtu.be/una02WnDHic Moving Target gives you 100% Aim Assist.  Zen moment is best tags:god-pvp
+dimwishlist:item=2763843898&perks=3038247973,2387244414
+dimwishlist:item=2763843898&perks=3038247973,47981717
+dimwishlist:item=2763843898&perks=588594999,2387244414
+dimwishlist:item=2763843898&perks=588594999,47981717
+
+
+// Luna's Howl - Luna's Howl (god-pvp)
+//notes: Daltnix PVP Weapons https://youtu.be/una02WnDHic Great in PVP tags:god-pvp
+dimwishlist:item=2763843899&perks=699525795,2720533289
+dimwishlist:item=2763843899&perks=699525795,47981717
+dimwishlist:item=2763843899&perks=3161816588,2720533289
+dimwishlist:item=2763843899&perks=3161816588,47981717
+dimwishlist:item=2763843899&perks=3017780555,2720533289
+dimwishlist:item=2763843899&perks=3017780555,47981717
+
+
+// Conditional Finality -  Conditional Finality (god-pvp)
+//notes: Daltnix PVP Weapons https://youtu.be/una02WnDHic Great in PVP tags:god-pvp
+dimwishlist:item=3371017761&perks=3492498209,1431678320,1105347996,3917450714
+
+
+// Shayura's Wrath - Shayura's Wrath (god-pvp)
+//notes: Daltnix PVP Weapons https://youtu.be/una02WnDHic Great in PVP.  Get from Saint 14.  Killing Wind Kill Clip is best tags:god-pvp
+dimwishlist:item=3682803680&perks=2450788523,1015611457
+dimwishlist:item=3682803680&perks=2450788523,1890422124
+dimwishlist:item=3682803680&perks=2450788523,3511092054
+dimwishlist:item=3682803680&perks=1359896290,1015611457
+dimwishlist:item=3682803680&perks=1359896290,1890422124
+dimwishlist:item=3682803680&perks=1359896290,3511092054
+dimwishlist:item=3682803680&perks=588594999,1015611457
+dimwishlist:item=3682803680&perks=588594999,1890422124
+dimwishlist:item=3682803680&perks=588594999,3511092054
+dimwishlist:item=3682803680&perks=1428297954,1015611457
+dimwishlist:item=3682803680&perks=1428297954,1890422124
+dimwishlist:item=3682803680&perks=1428297954,3511092054
+
+
+// Hawkmoon - Hawkmoon (god-pvp)
+//notes: Daltnix PVP Weapons https://youtu.be/una02WnDHic Just a beast tags:god-pvp
+dimwishlist:item=3856705927&perks=47981717
+dimwishlist:item=3856705927&perks=588594999
+dimwishlist:item=3856705927&perks=699525795
+
+
+// Shayura's Wrath (Adept) - Shayura's Wrath (Adept) (god-pvp)
+//notes: Daltnix PVP Weapons https://youtu.be/una02WnDHic Great in PVP.  Get from Saint 14.  Killing Wind Kill Clip is best tags:god-pvp
+dimwishlist:item=4023807721&perks=2450788523,1890422124
+dimwishlist:item=4023807721&perks=2450788523,3511092054
+dimwishlist:item=4023807721&perks=1359896290,1890422124
+dimwishlist:item=4023807721&perks=1359896290,3511092054
+dimwishlist:item=4023807721&perks=588594999,1890422124
+dimwishlist:item=4023807721&perks=588594999,3511092054
+dimwishlist:item=4023807721&perks=1428297954,1890422124
+dimwishlist:item=4023807721&perks=1428297954,3511092054
+
+

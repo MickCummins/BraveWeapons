@@ -144,6 +144,16 @@ dimwishlist:item=2372514508&perks=1482024992,3177308360,3619207468,247725512
 dimwishlist:item=2372514508&perks=1482024992,3177308360,3619207468,2109543898
 
 
+// Edge Transit - Edge Transit Grenade Build (god-pve)
+//notes: Looking for a Grenade or Malee perk, we have adrenaline junkie.  So this needs Void, Solar, or Arc.  Preferably Void.  We want Indomitability to kill lots of Ads, so Chain Reaction works. Also want a big blast radius, don't we?   And any barrel perk that doesn't decrease the blast radius.  MW:Blast Radius (more kills is more good) tags:god-pve
+dimwishlist:item=568611923&perks=1844523823,1380253176,2396489472,11612903
+dimwishlist:item=568611923&perks=1478423395,1380253176,2396489472,11612903
+dimwishlist:item=568611923&perks=3809316345,1380253176,2396489472,11612903
+dimwishlist:item=568611923&perks=1441682018,1380253176,2396489472,11612903
+dimwishlist:item=568611923&perks=3525010810,1380253176,2396489472,11612903
+dimwishlist:item=568611923&perks=3798852852,1380253176,2396489472,11612903
+
+
 // Edge Transit
 //notes: pandapaxxy (PvE / M+KB / Controller): "Oh how the meme’s be meme’ing. Edge Transit used to drop as often as glimmer. We used to be swimming in them, with how often they used to drop. Now we are asking for more drops of Edge Transit. The hottest DPS weapon outside of Cataphract GL3 (Adept). For the moment we can stack extra rounds into the magazine with Augmented Drum and Envious Assassin, and then hot swap over to Spike Grenades and Cascade Point on some Holo-foil rolls. Pair that with either Explosive Light or Bait and Switch for incredible damage. Bait and Switch will last the whole extended magazine, but (soon to be) enhanced Explosive Light will last 7 shots. If you nail just one roll out of all the Edge Transits I would look for Cascade Point and Explosive Light to be able to nuke most majors, champions, and bosses with ease." Recommended MW: Velocity.|tags:pve,mkb,controller
 dimwishlist:item=568611923&perks=3525010810,3301904089,3751912585,3078487919
@@ -297,108 +307,10 @@ dimwishlist:item=568611923&perks=968510818,3078487919
 dimwishlist:item=568611923&perks=951095735,2888557110
 
 
-// Elsie's Rifle
-//notes: pandapaxxy (PvE / M+KB / Controller): "Elsie's Rifle is a throwback to D1, and another good weapon Bungie could have brought back was Murmur, the element switching fusion *from the Moon.* Jokes aside, Elsie's Rifle is incredible. Rewind Rounds or Feeding Frenzy paired with Desperate Measures or Desperado, any combination of the above will be more than lethal. Arrowhead Brake is a must have regardless of what activity you bring this rifle into, I don't know if there's a small bug within the timelines of this rifle but having Arrowhead Brake fixes a large majority of issues." Recommended MW: Reload Speed.|tags:pve,controller,mkb
-dimwishlist:item=2372514509&perks=839105230,1087426260,3418782618,2109543898
-dimwishlist:item=2372514509&perks=839105230,1087426260,3418782618,3047969693
-dimwishlist:item=2372514509&perks=839105230,1087426260,3418782618,2048641572
-dimwishlist:item=2372514509&perks=839105230,1087426260,2779035018,2109543898
-dimwishlist:item=2372514509&perks=839105230,1087426260,2779035018,3047969693
-dimwishlist:item=2372514509&perks=839105230,1087426260,2779035018,2048641572
-dimwishlist:item=2372514509&perks=839105230,1087426260,776531651,2109543898
-dimwishlist:item=2372514509&perks=839105230,1087426260,776531651,3047969693
-dimwishlist:item=2372514509&perks=839105230,1087426260,776531651,2048641572
-dimwishlist:item=2372514509&perks=839105230,1968497646,3418782618,2109543898
-dimwishlist:item=2372514509&perks=839105230,1968497646,3418782618,3047969693
-dimwishlist:item=2372514509&perks=839105230,1968497646,3418782618,2048641572
-dimwishlist:item=2372514509&perks=839105230,1968497646,2779035018,2109543898
-dimwishlist:item=2372514509&perks=839105230,1968497646,2779035018,3047969693
-dimwishlist:item=2372514509&perks=839105230,1968497646,2779035018,2048641572
-dimwishlist:item=2372514509&perks=839105230,1968497646,776531651,2109543898
-dimwishlist:item=2372514509&perks=839105230,1968497646,776531651,3047969693
-dimwishlist:item=2372514509&perks=839105230,1968497646,776531651,2048641572
-dimwishlist:item=2372514509&perks=839105230,3230963543,3418782618,2109543898
-dimwishlist:item=2372514509&perks=839105230,3230963543,3418782618,3047969693
-dimwishlist:item=2372514509&perks=839105230,3230963543,3418782618,2048641572
-dimwishlist:item=2372514509&perks=839105230,3230963543,2779035018,2109543898
-dimwishlist:item=2372514509&perks=839105230,3230963543,2779035018,3047969693
-dimwishlist:item=2372514509&perks=839105230,3230963543,2779035018,2048641572
-dimwishlist:item=2372514509&perks=839105230,3230963543,776531651,2109543898
-dimwishlist:item=2372514509&perks=839105230,3230963543,776531651,3047969693
-dimwishlist:item=2372514509&perks=839105230,3230963543,776531651,2048641572
-
-
-// Elsie's Rifle
-//notes: pandapaxxy (PvP / M+KB / Controller): "Like I mentioned earlier, Arrowhead Brake is a must have. This will make your two bursts far easier. Zen Moment and Headseeker allow you consistent two bursts. Depending on how that feels you might instead want Keep Away for better accuracy from a distance. Zen Moment and Kill Clip are also present, giving you some flexibility if you don't like Blast Furnace or aggressive burst pulse rifles." Recommended MW: Stability or Range.|tags:pvp,mkb,controller
-dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,460017080
-dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,2109543898
-dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,1015611457
-dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,460017080
-dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,2109543898
-dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,1015611457
-dimwishlist:item=2372514509&perks=839105230,1885400500,1870851715,460017080
-dimwishlist:item=2372514509&perks=839105230,1885400500,1870851715,2109543898
-dimwishlist:item=2372514509&perks=839105230,1885400500,1870851715,1015611457
-dimwishlist:item=2372514509&perks=839105230,1561002382,2387244414,460017080
-dimwishlist:item=2372514509&perks=839105230,1561002382,2387244414,2109543898
-dimwishlist:item=2372514509&perks=839105230,1561002382,2387244414,1015611457
-dimwishlist:item=2372514509&perks=839105230,1561002382,3619207468,460017080
-dimwishlist:item=2372514509&perks=839105230,1561002382,3619207468,2109543898
-dimwishlist:item=2372514509&perks=839105230,1561002382,3619207468,1015611457
-dimwishlist:item=2372514509&perks=839105230,1561002382,1870851715,460017080
-dimwishlist:item=2372514509&perks=839105230,1561002382,1870851715,2109543898
-dimwishlist:item=2372514509&perks=839105230,1561002382,1870851715,1015611457
-
-
-// Elsie's Rifle (DFP pvp roll)
-//notes: As picked by Destiny Fun Police.  Use a counterbalance stock, and Reload MW. tags:pvp
-dimwishlist:item=2372514509&perks=1482024992,1885400500,2387244414,3047969693
-
-
-// Elsie's Rifle (True Vanguard pvp roll)
-//notes: As picked by True Vanguard.  This pulse has 35 base stat points more than Messenger, slightly less range but way more stability and handling.  MW:Range or Reload.  tags:pvp
-dimwishlist:item=2372514509&perks=1482024992,1885400500,2387244414,3047969693
-
-
-// Elsie's Rifle - Elsie True Vanguard Special (pve)
-//notes: Destabalising should proc Loose Change.  Giving you 20 more Aim Assist and 50 Reload Speed tags:pve
-dimwishlist:item=2372514509&perks=1119449540,2048641572
-
-
-// Elsie's Rifle - Elsie's Rifle True Vanguard Special PVP (pvp)
-//notes: These perks couple together well.  MW: Range or Reload Mod: Counterbalance Stock tags:pvp
-dimwishlist:item=2372514509&perks=2387244414,3047969693
-
-
-// Elsie's Rifle - Elsie True Vanguard Standard PVP (pvp)
-//notes: MW: Range or Reload Mod: Counterbalnce Stock tags:pvp
-dimwishlist:item=2372514509&perks=2387244414,460017080
-dimwishlist:item=2372514509&perks=2387244414,1015611457
-dimwishlist:item=2372514509&perks=3619207468,460017080
-dimwishlist:item=2372514509&perks=3619207468,1015611457
-
-
-// Elsie's Rifle - Elsie's Rifle Daniel Standard PVP (pvp)
-//notes: Break shield, kill guardians.  Simple.  MW: Range or Stability tags:pvp
-dimwishlist:item=2372514509&perks=839105230,1885400500,1870851715,1015611457
-
-
-// Elsie's Rifle - Elsie's Rifle (god-pvp)
-//notes:Aztecross(https://youtu.be/5zkK-PrEw0E?si=TMJXZAwq2-xyDaA6)  Only going to get better as the perks will be enhanceable in the Final Shape. tags:god-pvp
-dimwishlist:item=2372514509&perks=1467527085,1561002382,2387244414,460017080
-dimwishlist:item=2372514509&perks=1467527085,1561002382,3619207468,460017080
-dimwishlist:item=2372514509&perks=1467527085,1885400500,2387244414,460017080
-dimwishlist:item=2372514509&perks=1467527085,1885400500,3619207468,460017080
-
-
-// Elsie's Rifle - Elsie's Rifle (pve)
-//notes:Aztecross(https://youtu.be/5zkK-PrEw0E?si=TMJXZAwq2-xyDaA6)  Desparate measures in PVE synergises best with the origin trait tags:pve
-dimwishlist:item=2372514509&perks=3418782618,4104185692
-dimwishlist:item=2372514509&perks=3418782618,2109543898
-dimwishlist:item=2372514509&perks=3418782618,3047969693
-dimwishlist:item=2372514509&perks=776531651,4104185692
-dimwishlist:item=2372514509&perks=776531651,2109543898
-dimwishlist:item=2372514509&perks=776531651,3047969693
+// Elsie's Rifle - Elsie's Rifle Light Subclass Grenade Build (god-pve)
+//notes: Looking for a Grenade or Malee perk, we have adrenaline junkie.  So this needs Void, Solar, or Arc.  Preferably Void.  Sadly, Volatile which is the only mass kill one shot perk is in the same column, so options? Well, since we are applying a debuff that pairs with Loose Change or if Void, Replusor Brace.  Barrel and Magazine options really don't enhance this functionality, so whatever works.  But, since Loose Change enhances Aim Assist, crisp handling, short range, fast reloads is probably the focus.  MW: Handling or Reload tags:god-pve
+dimwishlist:item=2372514509&perks=1119449540,11612903
+dimwishlist:item=2372514509&perks=776531651,11612903
 
 
 // Elsie's Rifle
@@ -503,6 +415,116 @@ dimwishlist:item=2372514509&perks=3418782618,3047969693
 dimwishlist:item=2372514509&perks=776531651,4104185692
 dimwishlist:item=2372514509&perks=776531651,2109543898
 dimwishlist:item=2372514509&perks=776531651,3047969693
+
+
+// Elsie's Rifle
+//notes: pandapaxxy (PvE / M+KB / Controller): "Elsie's Rifle is a throwback to D1, and another good weapon Bungie could have brought back was Murmur, the element switching fusion *from the Moon.* Jokes aside, Elsie's Rifle is incredible. Rewind Rounds or Feeding Frenzy paired with Desperate Measures or Desperado, any combination of the above will be more than lethal. Arrowhead Brake is a must have regardless of what activity you bring this rifle into, I don't know if there's a small bug within the timelines of this rifle but having Arrowhead Brake fixes a large majority of issues." Recommended MW: Reload Speed.|tags:pve,controller,mkb
+dimwishlist:item=2372514509&perks=839105230,1087426260,3418782618,2109543898
+dimwishlist:item=2372514509&perks=839105230,1087426260,3418782618,3047969693
+dimwishlist:item=2372514509&perks=839105230,1087426260,3418782618,2048641572
+dimwishlist:item=2372514509&perks=839105230,1087426260,2779035018,2109543898
+dimwishlist:item=2372514509&perks=839105230,1087426260,2779035018,3047969693
+dimwishlist:item=2372514509&perks=839105230,1087426260,2779035018,2048641572
+dimwishlist:item=2372514509&perks=839105230,1087426260,776531651,2109543898
+dimwishlist:item=2372514509&perks=839105230,1087426260,776531651,3047969693
+dimwishlist:item=2372514509&perks=839105230,1087426260,776531651,2048641572
+dimwishlist:item=2372514509&perks=839105230,1968497646,3418782618,2109543898
+dimwishlist:item=2372514509&perks=839105230,1968497646,3418782618,3047969693
+dimwishlist:item=2372514509&perks=839105230,1968497646,3418782618,2048641572
+dimwishlist:item=2372514509&perks=839105230,1968497646,2779035018,2109543898
+dimwishlist:item=2372514509&perks=839105230,1968497646,2779035018,3047969693
+dimwishlist:item=2372514509&perks=839105230,1968497646,2779035018,2048641572
+dimwishlist:item=2372514509&perks=839105230,1968497646,776531651,2109543898
+dimwishlist:item=2372514509&perks=839105230,1968497646,776531651,3047969693
+dimwishlist:item=2372514509&perks=839105230,1968497646,776531651,2048641572
+dimwishlist:item=2372514509&perks=839105230,3230963543,3418782618,2109543898
+dimwishlist:item=2372514509&perks=839105230,3230963543,3418782618,3047969693
+dimwishlist:item=2372514509&perks=839105230,3230963543,3418782618,2048641572
+dimwishlist:item=2372514509&perks=839105230,3230963543,2779035018,2109543898
+dimwishlist:item=2372514509&perks=839105230,3230963543,2779035018,3047969693
+dimwishlist:item=2372514509&perks=839105230,3230963543,2779035018,2048641572
+dimwishlist:item=2372514509&perks=839105230,3230963543,776531651,2109543898
+dimwishlist:item=2372514509&perks=839105230,3230963543,776531651,3047969693
+dimwishlist:item=2372514509&perks=839105230,3230963543,776531651,2048641572
+
+
+// Elsie's Rifle
+//notes: pandapaxxy (PvP / M+KB / Controller): "Like I mentioned earlier, Arrowhead Brake is a must have. This will make your two bursts far easier. Zen Moment and Headseeker allow you consistent two bursts. Depending on how that feels you might instead want Keep Away for better accuracy from a distance. Zen Moment and Kill Clip are also present, giving you some flexibility if you don't like Blast Furnace or aggressive burst pulse rifles." Recommended MW: Stability or Range.|tags:pvp,mkb,controller
+dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,460017080
+dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,2109543898
+dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,1015611457
+dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,460017080
+dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,2109543898
+dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,1015611457
+dimwishlist:item=2372514509&perks=839105230,1885400500,1870851715,460017080
+dimwishlist:item=2372514509&perks=839105230,1885400500,1870851715,2109543898
+dimwishlist:item=2372514509&perks=839105230,1885400500,1870851715,1015611457
+dimwishlist:item=2372514509&perks=839105230,1561002382,2387244414,460017080
+dimwishlist:item=2372514509&perks=839105230,1561002382,2387244414,2109543898
+dimwishlist:item=2372514509&perks=839105230,1561002382,2387244414,1015611457
+dimwishlist:item=2372514509&perks=839105230,1561002382,3619207468,460017080
+dimwishlist:item=2372514509&perks=839105230,1561002382,3619207468,2109543898
+dimwishlist:item=2372514509&perks=839105230,1561002382,3619207468,1015611457
+dimwishlist:item=2372514509&perks=839105230,1561002382,1870851715,460017080
+dimwishlist:item=2372514509&perks=839105230,1561002382,1870851715,2109543898
+dimwishlist:item=2372514509&perks=839105230,1561002382,1870851715,1015611457
+
+
+// Elsie's Rifle (DFP pvp roll)
+//notes: As picked by Destiny Fun Police.  Use a counterbalance stock, and Reload MW. tags:pvp
+dimwishlist:item=2372514509&perks=1482024992,1885400500,2387244414,3047969693
+
+
+// Elsie's Rifle (True Vanguard pvp roll)
+//notes: As picked by True Vanguard.  This pulse has 35 base stat points more than Messenger, slightly less range but way more stability and handling.  MW:Range or Reload.  tags:pvp
+dimwishlist:item=2372514509&perks=1482024992,1885400500,2387244414,3047969693
+
+
+// Elsie's Rifle - Elsie True Vanguard Special (pve)
+//notes: Destabalising should proc Loose Change.  Giving you 20 more Aim Assist and 50 Reload Speed tags:pve
+dimwishlist:item=2372514509&perks=1119449540,2048641572
+
+
+// Elsie's Rifle - Elsie's Rifle True Vanguard Special PVP (pvp)
+//notes: These perks couple together well.  MW: Range or Reload Mod: Counterbalance Stock tags:pvp
+dimwishlist:item=2372514509&perks=2387244414,3047969693
+
+
+// Elsie's Rifle - Elsie True Vanguard Standard PVP (pvp)
+//notes: MW: Range or Reload Mod: Counterbalnce Stock tags:pvp
+dimwishlist:item=2372514509&perks=2387244414,460017080
+dimwishlist:item=2372514509&perks=2387244414,1015611457
+dimwishlist:item=2372514509&perks=3619207468,460017080
+dimwishlist:item=2372514509&perks=3619207468,1015611457
+
+
+// Elsie's Rifle - Elsie's Rifle Daniel Standard PVP (pvp)
+//notes: Break shield, kill guardians.  Simple.  MW: Range or Stability tags:pvp
+dimwishlist:item=2372514509&perks=839105230,1885400500,1870851715,1015611457
+
+
+// Elsie's Rifle - Elsie's Rifle (god-pvp)
+//notes:Aztecross(https://youtu.be/5zkK-PrEw0E?si=TMJXZAwq2-xyDaA6)  Only going to get better as the perks will be enhanceable in the Final Shape. tags:god-pvp
+dimwishlist:item=2372514509&perks=1467527085,1561002382,2387244414,460017080
+dimwishlist:item=2372514509&perks=1467527085,1561002382,3619207468,460017080
+dimwishlist:item=2372514509&perks=1467527085,1885400500,2387244414,460017080
+dimwishlist:item=2372514509&perks=1467527085,1885400500,3619207468,460017080
+
+
+// Elsie's Rifle - Elsie's Rifle (pve)
+//notes:Aztecross(https://youtu.be/5zkK-PrEw0E?si=TMJXZAwq2-xyDaA6)  Desparate measures in PVE synergises best with the origin trait tags:pve
+dimwishlist:item=2372514509&perks=3418782618,4104185692
+dimwishlist:item=2372514509&perks=3418782618,2109543898
+dimwishlist:item=2372514509&perks=3418782618,3047969693
+dimwishlist:item=2372514509&perks=776531651,4104185692
+dimwishlist:item=2372514509&perks=776531651,2109543898
+dimwishlist:item=2372514509&perks=776531651,3047969693
+
+
+// Falling Guillotine - Falling Guillotine Light Grenade or Darkness Malee (god-pve)
+//notes: Heavy weapon stuck in the third slot can only be ad clear with Chain Reaction.  So it's probably best paired with Void, or light subclass, but maybe Dark classes as well.  Volatile make sense for ad clear, but also Desparate Measures if we are talking about using a Malee or Grenade centred build. Other columns are whatever works. tags:god-pve
+dimwishlist:item=1815105249&perks=2396489472,2109543898
+dimwishlist:item=1815105249&perks=2396489472,2048641572
 
 
 // Falling Guillotine
@@ -602,6 +624,16 @@ dimwishlist:item=1815105249&perks=3078487919
 dimwishlist:item=1815105249&perks=4104185692,3708227201
 
 
+// Forbearance - Forbearance Indomitability Grenadier god-pve)
+//notes: Demolitionist means it's a grenade build weapon with Indominability you would think that suits the light classes.  With this weapon is in the energy slot it best suits it light classes best.  And the most appropriate coupling would be Arc.  Though being in the energy slot also means it doesn't impact on the Darkness Classes main weapons.  Strand moth keepers build jumps to mind immediately, or threadling grenades.  Of course, Demolitionist is now based on the Grenade cool down timer, so we want as many Ads over a wide radius dead.  Chain Reaction is a no-brainer, and anything that widens the blast radius, or at least doesn't diminish  it. MW: Blast Radius, but remember the wider the radius, the less the direct impact damage will be. tags:god-pve
+dimwishlist:item=568611921&perks=3798852852,2822142346,3523296417,2396489472,2489430594
+dimwishlist:item=568611921&perks=1478423395,2822142346,3523296417,2396489472,2489430594
+dimwishlist:item=568611921&perks=1844523823,2822142346,3523296417,2396489472,2489430594
+dimwishlist:item=568611921&perks=3809316345,2822142346,3523296417,2396489472,2489430594
+dimwishlist:item=568611921&perks=1441682018,2822142346,3523296417,2396489472,2489430594
+dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,2396489472,2489430594
+
+
 // Forbearance
 //notes: pandapaxxy (PvE / M+KB / Controller): "While I, personally, am glad Forbearance is easier to get, I also understand why there's community hesitation against it. If you already have a Forbearance crafted or Adept, you definitely do not need to grind out the new version other than for progress towards Superblack. If you are like me and don't have Forbearance, you're just gonna grab the already tried and true roll of Ambitious Assassin and Chain Reaction. Unrelenting in column 3 is arguably better than Ambitious Assassin as it only takes 3 kills to activate and should work with Chain Reaction. If you're using the new Forbearance on a grenade heavy build this version could be better with the origin trait giving 5% grenade charge back." Recommended MW: Velocity.|tags:pve,mkb,controller
 dimwishlist:item=568611921&perks=3525010810,2822142346,3108830275,2396489472
@@ -653,6 +685,13 @@ dimwishlist:item=568611921&perks=1441682018,2822142346,3523296417,2396489472
 dimwishlist:item=568611921&perks=1441682018,2822142346,1683379515,3592538738
 dimwishlist:item=568611921&perks=1441682018,2822142346,1683379515,2109543898
 dimwishlist:item=568611921&perks=1441682018,2822142346,1683379515,2396489472
+
+
+// Hammerhead - Hammerhead Void Grenade (god-pve)
+//notes: Well, void heavy weapon so really Void Grenade build is probably the best application.  The only mass ad-clear perk to trigger Indomitability is Volatile.  Yes, in the same column are some cool perks, but we want highest gain for least ammo out.  Desperate Measures is the obvious match, with Killing Tally and even Surrounded being the other damage based options.  While Onslaught is great, for the Ammo Economy versus ability regen we are after, this perk can be looked over.  Barrel, Magazine, and Masterwork options aren't as specific, but I would try for more bullets and better handling for ad-dense environments. tags:god-pve
+dimwishlist:item=1896309757&perks=2048641572,2109543898
+dimwishlist:item=1896309757&perks=2048641572,557221067
+dimwishlist:item=1896309757&perks=2048641572,3708227201
 
 
 // Hammerhead
@@ -848,6 +887,18 @@ dimwishlist:item=1896309757&perks=3250034553,1431678320,1870851715,1890422124
 dimwishlist:item=1896309757&perks=3250034553,1968497646,1870851715,1890422124
 
 
+// Hung Jury SR4 - Hung Jury SR4 Light Subclass Grenade build (god-pve)
+//notes: Well, stuck in the Kinetic slot without Osmosis or Permeability sort of rules this out for Dark classes, with one possible exception.  See, I need to check what nastiness the Warlocks Chromatic Fire exotic chest piece will do to this weapon.  For mass killing, KT FF and EP seem the best options.  The combinations of KT with either FF or EP does have it's quirks, so I wonder if subclass effects will suffer the same fate.  Here's hoping it doesn't.  Loose Change seems like a great idea, so let's pair that with Box Breathing so that Aim Assist jumps from 67 to 97% almost instantly (Oh god I hope Chromatic Fire works) tags:god-pve
+dimwishlist:item=1453235079&perks=3891536761,3824105627
+dimwishlist:item=1453235079&perks=3891536761,3038247973
+dimwishlist:item=1453235079&perks=3891536761,2109543898
+dimwishlist:item=1453235079&perks=3891536761,2551157718
+dimwishlist:item=1453235079&perks=1119449540,3824105627
+dimwishlist:item=1453235079&perks=1119449540,3038247973
+dimwishlist:item=1453235079&perks=1119449540,2109543898
+dimwishlist:item=1453235079&perks=1119449540,2551157718
+
+
 // Hung Jury SR4
 //notes: pandapaxxy (PvE / M+KB / Controller): "If you liked Explosive Payload and missed it on S14 and S19 you can grab that, or One for All that was only on S14’s perk pool. Kinetic Tremors also moved to column 3 allowing you to stack two damage perks! Rewind Rounds might be better if you're using Hung Jury as your primary and taking down wave after wave of enemies, pair that with Firefly for AoE damage and you will seldom reload. If you liked some of the older perks like Adrenaline Junkie you'll be better off keeping your older version." Recommended MW: Stability|tags:pve,mkb,controller
 dimwishlist:item=1453235079&perks=839105230,1087426260,3418782618,3824105627
@@ -1004,6 +1055,10 @@ dimwishlist:item=1453235079&perks=2866798147,2551157718
 dimwishlist:item=1453235079&perks=247725512,2551157718
 
 
+// Luna's Howl - Luna's Howl Incandescent Solar Grenades (god-pve)
+//notes: Well, their is only one ad clear ability regen perk here.  So this weapon seems to suit Solar grenade builds.  Not much else specifically ad clearing here, for regen gains.  Heal Clip is probably the best survivability perk, and Enlightened Action or Subsistence being the next best, but I can't see a really bad pairing either in the third column.  Well, I cannot see a pairing that enhances the amount of kills per shot or speed of kills.  But apparently this gun is amaz-balls by itself.  Will the hype train live up to itself?  MW:Handling or Stability with matching Barrel and Magazine perks.  Really not much going on with this weapon for ad clear. tags:god-pve
+dimwishlist:item=2763843899&perks=4293542123,2489430594
+
 
 // Luna's Howl
 //notes: pandapaxxy (PvE / M+KB / Controller): "Luna's Howl is back and retains its precision frame, while firing at 140 RPM. If you don't have a good Zaouli’s Bane or Igneous Hammer with Heal Clip this can substitute. There's no shortage of Incandescent hand cannons. Magnificent Howl changed from needing precision hits to precision kills, this paired with Lucky Pants can dish out incredible damage, and fan refund itself. It could be very good and fun for lower end PvE content." Recommended MW: Stability.|tags:pve,controller,mkb
@@ -1119,6 +1174,14 @@ dimwishlist:item=2763843899&perks=1840239774,1561002382,699525795,2720533289
 dimwishlist:item=2763843899&perks=1840239774,1561002382,3017780555,555281244
 dimwishlist:item=2763843899&perks=1840239774,1561002382,3017780555,1015611457
 dimwishlist:item=2763843899&perks=1840239774,1561002382,3017780555,2720533289
+
+
+// Midnight Coup - Midnight Coup Indominability Regen (god-pve)
+//notes: Another Kinetic weapon, with only Firefly as a subclass specific perk.  Certainly has ammo economy ad clear capability.  So I think this is another Chromatic Fire Warlock weapon.  Otherwise, it lends itself to light subclasses purely by not taking up the all important darkness weapon slot.  Again, barrels, magazines and masterworks to suit an ad-dense enviroment.  Handling, Stability, and Reload are probably the focus. tags:god-pve
+dimwishlist:item=2763843898&perks=3038247973,3891536761,2489430594
+dimwishlist:item=2763843898&perks=3038247973,2109543898,2489430594
+dimwishlist:item=2763843898&perks=3824105627,3891536761,2489430594
+dimwishlist:item=2763843898&perks=3824105627,2109543898,2489430594
 
 
 // Midnight Coup (Holofoil)
@@ -1439,6 +1502,11 @@ dimwishlist:item=3824673936&perks=839105230,3142289711,2578928835,3242533954,425
 dimwishlist:item=3824673936&perks=839105230,3142289711,2578928835,3242533954,990298390,4135406211
 
 
+// Succession - Succession Kinetic Grenade Regen (god-pve)
+//notes: Well, kinetic slot and only one regen perk.  So mainly a light subclass regen beast, unless Strand or Stasis Chromatic warlock does something amazing, and then you could have monster malee energy regen.  This weapon really doesn't suit the Indomitability trait much at all. tags:god-pve
+dimwishlist:item=3612338554&perks=3523296417,2489430594
+
+
 // Succession
 //notes: pandapaxxy (PvE / M+KB / Controller): "I understand Bungie wants players to get a taste of the raid weapons to get players to buy the expansions and then play the raids, but Heritage is arguably a better Deep Stone Crypt weapon that doesn't infringe on other weapon types. Nevertheless, there are not many rolls you will be farming for. Reconstruction will give you more ammo in your magazine by rebuilding itself over time. Pair that with either Vorpal Weapon or Recombination for some high damage shot(s). Firing Line is great if you can link up with teammates to get the extra damage." Recommended MW: Handling or Stability.|tags:pve,controller,mkb
 dimwishlist:item=3612338554&perks=839105230,2420895100,1523832109,1546637391
@@ -1502,6 +1570,11 @@ dimwishlist:item=3612338554&perks=588594999,957782887
 // Succession - Succession (pve)
 //notes:Aztecross(https://youtu.be/5zkK-PrEw0E?si=TMJXZAwq2-xyDaA6)  Aztecross - Hang on to this roll for the Final shape.  Discord refunds ammo, and Redirection buffs damage on a bigger enemy.  Enhanced Redirection might be bad ass tags:pve
 dimwishlist:item=3612338554&perks=3978468247,3201496230
+
+
+// The Mountaintop - The Mountaintop Light Indomitability Grenadier  (god-pve)
+//notes: Well, thanks Bungie, that's just amazing.  Two matching grenade perks!  So, obviously that leans towards a Light subclass, as this weapon takes up that all important darkness class weapon slot.  But again, my mind wanders to Chromatic Fire Warlock again with this Kinetic.  Shame osmosis or permeability isn't a thing.  Barrel, magazine and masterwork are all you own preferences.  But remember, blast radius up means direct impact damage down.  This is not really a splash damage ad clearing weapon.  But you do you. tags:god-pve
+dimwishlist:item=568611922&perks=3523296417,11612903,2489430594
 
 
 // The Mountaintop
@@ -1836,6 +1909,12 @@ dimwishlist:item=568611922&perks=1478423395,3373736292,1556840489,1546637391
 dimwishlist:item=568611922&perks=1478423395,3373736292,1556840489,4049631843
 dimwishlist:item=568611922&perks=1478423395,3373736292,1556840489,469285294
 dimwishlist:item=568611922&perks=1478423395,3373736292,1556840489,4104185692
+
+
+// The Recluse - The Recluse Indomitability Regen Void (god-pve)
+//notes: Column three really doesn't have any specifically ad clearing perks, with any relationship to grenades or malee abilities.  So really only have volatile for ad clear and desperate measures to feedback from ability kills.  Being a void primary, I think this weapon really only belongs on a Void Grenade build.  Nothing to exciting with this weapon in regard to ability builds.  Loose Change would have been a nice option in column three, but that Bungie memo didn't circulate in time for release of the weapon perks.  Maybe next time? tags:god-pve
+dimwishlist:item=1050806815&perks=2048641572
+dimwishlist:item=1050806815&perks=2109543898
 
 
 // The Recluse

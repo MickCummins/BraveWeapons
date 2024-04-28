@@ -213,6 +213,11 @@ dimwishlist:item=568611923&perks=1441682018,2822142346,2396489472,3194351027
 
 
 // Edge Transit
+//notes: Shiny roll of Edge Transit.  No real difference, but I would not delete it until Final Shape
+dimwishlist:item=2228325504
+
+
+// Edge Transit
 //notes: pandapaxxy (PvP / M+KB / Controller): "The extra health added with the 7.3.5 update made a big switch to heavy grenade launcher perks. Now you'll need to invest heavier into Blast Radius to hit around 65+ in order to reliably OHK a guardian of all resilience levels. Volatile Launch with a Blast Radius MW gets us to 75, High-Explosive Ordinance brings that up to 85 and evens out the hit to velocity from Volatile Launch. Paired up with Impulse Amplifier and you'll hardly notice a difference compared to a max velocity roll without Impulse Amplifier. With the perk shake up I'd personally take Explosive Light in the fourth column to bring the blast radius up to 100 and get some extra explosion damage but Destabilizing Rounds is also good if you're looking for a pseudo-Chain Reaction." Recommended MW: Blast Radius.|tags:pvp,mkb,controller
 dimwishlist:item=568611923&perks=1478423395,1380253176,951095735,3194351027
 dimwishlist:item=568611923&perks=1478423395,1380253176,951095735,2048641572
@@ -305,6 +310,11 @@ dimwishlist:item=568611923&perks=968510818,3078487919
 // Edge Transit(Special combos)
 //notes: If you want to do more damage by travelling far, better do it fast. i.e. Impulse Amplifier and full court.
 dimwishlist:item=568611923&perks=951095735,2888557110
+
+
+// Elsie's Rifle
+//notes: Shiny roll of Elsie's Rifle.  No real difference, but I would not delete it until Final Shape
+dimwishlist:item=3098328572
 
 
 // Elsie's Rifle - Elsie's Rifle Light Subclass Grenade Build (god-pve)
@@ -521,6 +531,11 @@ dimwishlist:item=2372514509&perks=776531651,2109543898
 dimwishlist:item=2372514509&perks=776531651,3047969693
 
 
+// Falling Guillotine
+//notes: Shiny roll of Falling Guillotine.  No real difference, but I would not delete it until Final Shape
+dimwishlist:item=243425374
+
+
 // Falling Guillotine - Falling Guillotine Light Grenade or Darkness Malee (god-pve)
 //notes: Heavy weapon stuck in the third slot can only be ad clear with Chain Reaction.  So it's probably best paired with Void, or light subclass, but maybe Dark classes as well.  Volatile make sense for ad clear, but also Desparate Measures if we are talking about using a Malee or Grenade centred build. Other columns are whatever works. tags:god-pve
 dimwishlist:item=1815105249&perks=2396489472,2109543898
@@ -624,6 +639,11 @@ dimwishlist:item=1815105249&perks=3078487919
 dimwishlist:item=1815105249&perks=4104185692,3708227201
 
 
+// Forbearance
+//notes: Shiny roll of Forbearance.  No real difference, but I would not delete it until Final Shape
+dimwishlist:item=2480074702
+
+
 // Forbearance - Forbearance Indomitability Grenadier god-pve)
 //notes: Demolitionist means it's a grenade build weapon with Indominability you would think that suits the light classes.  With this weapon is in the energy slot it best suits it light classes best.  And the most appropriate coupling would be Arc.  Though being in the energy slot also means it doesn't impact on the Darkness Classes main weapons.  Strand moth keepers build jumps to mind immediately, or threadling grenades.  Of course, Demolitionist is now based on the Grenade cool down timer, so we want as many Ads over a wide radius dead.  Chain Reaction is a no-brainer, and anything that widens the blast radius, or at least doesn't diminish  it. MW: Blast Radius, but remember the wider the radius, the less the direct impact damage will be. tags:god-pve
 dimwishlist:item=568611921&perks=3798852852,2822142346,3523296417,2396489472,2489430594
@@ -685,6 +705,11 @@ dimwishlist:item=568611921&perks=1441682018,2822142346,3523296417,2396489472
 dimwishlist:item=568611921&perks=1441682018,2822142346,1683379515,3592538738
 dimwishlist:item=568611921&perks=1441682018,2822142346,1683379515,2109543898
 dimwishlist:item=568611921&perks=1441682018,2822142346,1683379515,2396489472
+
+
+// Hammerhead
+//notes: Shiny roll of Hammerhead.  No real difference, but I would not delete it until Final Shape
+dimwishlist:item=211732170
 
 
 // Hammerhead - Hammerhead Void Grenade (god-pve)
@@ -887,6 +912,11 @@ dimwishlist:item=1896309757&perks=3250034553,1431678320,1870851715,1890422124
 dimwishlist:item=1896309757&perks=3250034553,1968497646,1870851715,1890422124
 
 
+// Hung Jury SR4
+//notes:  Shiny roll of Hung Jury SR4.  No real difference, but I would not delete it until Final Shape
+dimwishlist:item=205225492
+
+
 // Hung Jury SR4 - Hung Jury SR4 Light Subclass Grenade build (god-pve)
 //notes: Well, stuck in the Kinetic slot without Osmosis or Permeability sort of rules this out for Dark classes, with one possible exception.  See, I need to check what nastiness the Warlocks Chromatic Fire exotic chest piece will do to this weapon.  For mass killing, KT FF and EP seem the best options.  The combinations of KT with either FF or EP does have it's quirks, so I wonder if subclass effects will suffer the same fate.  Here's hoping it doesn't.  Loose Change seems like a great idea, so let's pair that with Box Breathing so that Aim Assist jumps from 67 to 97% almost instantly (Oh god I hope Chromatic Fire works) tags:god-pve
 dimwishlist:item=1453235079&perks=3891536761,3824105627
@@ -1055,6 +1085,11 @@ dimwishlist:item=1453235079&perks=2866798147,2551157718
 dimwishlist:item=1453235079&perks=247725512,2551157718
 
 
+// Luna's Howl
+//notes:  Shiny roll of Luna's Howl.  No real difference, but I would not delete it until Final Shape
+dimwishlist:item=3757612024
+
+
 // Luna's Howl - Luna's Howl Incandescent Solar Grenades (god-pve)
 //notes: Well, their is only one ad clear ability regen perk here.  So this weapon seems to suit Solar grenade builds.  Not much else specifically ad clearing here, for regen gains.  Heal Clip is probably the best survivability perk, and Enlightened Action or Subsistence being the next best, but I can't see a really bad pairing either in the third column.  Well, I cannot see a pairing that enhances the amount of kills per shot or speed of kills.  But apparently this gun is amaz-balls by itself.  Will the hype train live up to itself?  MW:Handling or Stability with matching Barrel and Magazine perks.  Really not much going on with this weapon for ad clear. tags:god-pve
 dimwishlist:item=2763843899&perks=4293542123,2489430594
@@ -1174,6 +1209,11 @@ dimwishlist:item=2763843899&perks=1840239774,1561002382,699525795,2720533289
 dimwishlist:item=2763843899&perks=1840239774,1561002382,3017780555,555281244
 dimwishlist:item=2763843899&perks=1840239774,1561002382,3017780555,1015611457
 dimwishlist:item=2763843899&perks=1840239774,1561002382,3017780555,2720533289
+
+
+// Midnight Coup
+//notes:  Shiny roll of Midnight Coup.  No real difference, but I would not delete it until Final Shape
+dimwishlist:item=2499720827
 
 
 // Midnight Coup - Midnight Coup Indominability Regen (god-pve)
@@ -1502,6 +1542,11 @@ dimwishlist:item=3824673936&perks=839105230,3142289711,2578928835,3242533954,425
 dimwishlist:item=3824673936&perks=839105230,3142289711,2578928835,3242533954,990298390,4135406211
 
 
+// Succession
+//notes:  Shiny roll of Succession.  No real difference, but I would not delete it until Final Shape
+dimwishlist:item=570866107
+
+
 // Succession - Succession Kinetic Grenade Regen (god-pve)
 //notes: Well, kinetic slot and only one regen perk.  So mainly a light subclass regen beast, unless Strand or Stasis Chromatic warlock does something amazing, and then you could have monster malee energy regen.  This weapon really doesn't suit the Indomitability trait much at all. tags:god-pve
 dimwishlist:item=3612338554&perks=3523296417,2489430594
@@ -1570,6 +1615,11 @@ dimwishlist:item=3612338554&perks=588594999,957782887
 // Succession - Succession (pve)
 //notes:Aztecross(https://youtu.be/5zkK-PrEw0E?si=TMJXZAwq2-xyDaA6)  Aztecross - Hang on to this roll for the Final shape.  Discord refunds ammo, and Redirection buffs damage on a bigger enemy.  Enhanced Redirection might be bad ass tags:pve
 dimwishlist:item=3612338554&perks=3978468247,3201496230
+
+
+// The Mountaintop
+//notes:  Shiny roll of The Mountaintop.  No real difference, but I would not delete it until Final Shape
+dimwishlist:item=4043921923
 
 
 // The Mountaintop - The Mountaintop Light Indomitability Grenadier  (god-pve)
@@ -1909,6 +1959,11 @@ dimwishlist:item=568611922&perks=1478423395,3373736292,1556840489,1546637391
 dimwishlist:item=568611922&perks=1478423395,3373736292,1556840489,4049631843
 dimwishlist:item=568611922&perks=1478423395,3373736292,1556840489,469285294
 dimwishlist:item=568611922&perks=1478423395,3373736292,1556840489,4104185692
+
+
+// The Recluse
+//notes:  Shiny roll of The Recluse.  No real difference, but I would not delete it until Final Shape
+dimwishlist:item=3098328572
 
 
 // The Recluse - The Recluse Indomitability Regen Void (god-pve)

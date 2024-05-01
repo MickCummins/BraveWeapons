@@ -1613,6 +1613,14 @@ dimwishlist:item=3612338554&perks=588594999,957782887
 dimwishlist:item=3612338554&perks=3978468247,3201496230
 
 
+// The Mountaintop - The Mountaintop - Recombination Perk (pve)
+//notes: So Recombination stacks 10% damage bonus for each. ALH is probably the best perk.  There seems to be some inconsistency explaining how damage works with Recombination; so I need to test tags:pve
+dimwishlist:item=568611922&perks=1556840489,469285294
+dimwishlist:item=568611922&perks=3300816228,469285294
+dimwishlist:item=568611922&perks=3523296417,469285294
+dimwishlist:item=568611922&perks=951095735,469285294
+
+
 // The Mountaintop
 //notes:  Shiny roll of The Mountaintop.  No real difference, but I would not delete it until Final Shape
 dimwishlist:item=4043921923

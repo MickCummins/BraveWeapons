@@ -1091,120 +1091,34 @@ dimwishlist:item=3757612024
 dimwishlist:item=2763843899&perks=4293542123,2489430594
 
 
-// Luna's Howl
-//notes: pandapaxxy (PvE / M+KB / Controller): "Luna's Howl is back and retains its precision frame, while firing at 140 RPM. If you don't have a good Zaouli’s Bane or Igneous Hammer with Heal Clip this can substitute. There's no shortage of Incandescent hand cannons. Magnificent Howl changed from needing precision hits to precision kills, this paired with Lucky Pants can dish out incredible damage, and fan refund itself. It could be very good and fun for lower end PvE content." Recommended MW: Stability.|tags:pve,controller,mkb
-dimwishlist:item=2763843899&perks=1840239774,1087426260,3017780555,4293542123
-dimwishlist:item=2763843899&perks=1840239774,1087426260,3017780555,2109543898
-dimwishlist:item=2763843899&perks=1840239774,1087426260,3017780555,2720533289
-dimwishlist:item=2763843899&perks=1840239774,1087426260,1820235745,4293542123
-dimwishlist:item=2763843899&perks=1840239774,1087426260,1820235745,2109543898
-dimwishlist:item=2763843899&perks=1840239774,1087426260,1820235745,2720533289
-dimwishlist:item=2763843899&perks=1840239774,1968497646,3017780555,4293542123
-dimwishlist:item=2763843899&perks=1840239774,1968497646,3017780555,2109543898
-dimwishlist:item=2763843899&perks=1840239774,1968497646,3017780555,2720533289
-dimwishlist:item=2763843899&perks=1840239774,1968497646,1820235745,4293542123
-dimwishlist:item=2763843899&perks=1840239774,1968497646,1820235745,2109543898
-dimwishlist:item=2763843899&perks=1840239774,1968497646,1820235745,2720533289
-dimwishlist:item=2763843899&perks=1840239774,3230963543,3017780555,4293542123
-dimwishlist:item=2763843899&perks=1840239774,3230963543,3017780555,2109543898
-dimwishlist:item=2763843899&perks=1840239774,3230963543,3017780555,2720533289
-dimwishlist:item=2763843899&perks=1840239774,3230963543,1820235745,4293542123
-dimwishlist:item=2763843899&perks=1840239774,3230963543,1820235745,2109543898
-dimwishlist:item=2763843899&perks=1840239774,3230963543,1820235745,2720533289
-dimwishlist:item=2763843899&perks=1482024992,1087426260,3017780555,4293542123
-dimwishlist:item=2763843899&perks=1482024992,1087426260,3017780555,2109543898
-dimwishlist:item=2763843899&perks=1482024992,1087426260,3017780555,2720533289
-dimwishlist:item=2763843899&perks=1482024992,1087426260,1820235745,4293542123
-dimwishlist:item=2763843899&perks=1482024992,1087426260,1820235745,2109543898
-dimwishlist:item=2763843899&perks=1482024992,1087426260,1820235745,2720533289
-dimwishlist:item=2763843899&perks=1482024992,1968497646,3017780555,4293542123
-dimwishlist:item=2763843899&perks=1482024992,1968497646,3017780555,2109543898
-dimwishlist:item=2763843899&perks=1482024992,1968497646,3017780555,2720533289
-dimwishlist:item=2763843899&perks=1482024992,1968497646,1820235745,4293542123
-dimwishlist:item=2763843899&perks=1482024992,1968497646,1820235745,2109543898
-dimwishlist:item=2763843899&perks=1482024992,1968497646,1820235745,2720533289
-dimwishlist:item=2763843899&perks=1482024992,3230963543,3017780555,4293542123
-dimwishlist:item=2763843899&perks=1482024992,3230963543,3017780555,2109543898
-dimwishlist:item=2763843899&perks=1482024992,3230963543,3017780555,2720533289
-dimwishlist:item=2763843899&perks=1482024992,3230963543,1820235745,4293542123
-dimwishlist:item=2763843899&perks=1482024992,3230963543,1820235745,2109543898
-dimwishlist:item=2763843899&perks=1482024992,3230963543,1820235745,2720533289
-dimwishlist:item=2763843899&perks=4090651448,1087426260,3017780555,4293542123
-dimwishlist:item=2763843899&perks=4090651448,1087426260,3017780555,2109543898
-dimwishlist:item=2763843899&perks=4090651448,1087426260,3017780555,2720533289
-dimwishlist:item=2763843899&perks=4090651448,1087426260,1820235745,4293542123
-dimwishlist:item=2763843899&perks=4090651448,1087426260,1820235745,2109543898
-dimwishlist:item=2763843899&perks=4090651448,1087426260,1820235745,2720533289
-dimwishlist:item=2763843899&perks=4090651448,1968497646,3017780555,4293542123
-dimwishlist:item=2763843899&perks=4090651448,1968497646,3017780555,2109543898
-dimwishlist:item=2763843899&perks=4090651448,1968497646,3017780555,2720533289
-dimwishlist:item=2763843899&perks=4090651448,1968497646,1820235745,4293542123
-dimwishlist:item=2763843899&perks=4090651448,1968497646,1820235745,2109543898
-dimwishlist:item=2763843899&perks=4090651448,1968497646,1820235745,2720533289
-dimwishlist:item=2763843899&perks=4090651448,3230963543,3017780555,4293542123
-dimwishlist:item=2763843899&perks=4090651448,3230963543,3017780555,2109543898
-dimwishlist:item=2763843899&perks=4090651448,3230963543,3017780555,2720533289
-dimwishlist:item=2763843899&perks=4090651448,3230963543,1820235745,4293542123
-dimwishlist:item=2763843899&perks=4090651448,3230963543,1820235745,2109543898
-dimwishlist:item=2763843899&perks=4090651448,3230963543,1820235745,2720533289
+// Luna's Howl - Maven's Kills with other weapons roll (god-pve)
+//notes: Mavens God Roll.  She actually did some serious testing.  So in PVE Luna's Howl is probably not the go to Solar Hand Cannon.  Luna's Howl is just so much work for a damage perk that disappears (Reason players love Frenzy).  Zaouli's Bane with Explosive Payload combined Incandescent easily over-powers Luna's combos.  But Subsistence with Incandescent can be good, probably mixed with Appended Mag.  Slide shot as a reload method is just too much work.  Kill Clip would be best paired with Enlightened Action, and is good.  Desperate Measures is a perk that will probably be buffed in the future due to deserved poor reception.  Precision Instrument is very strong, and paired well with Encore for increases stability, range and importantly Accuracy to feed back into Precision Instrument.  Shockingly Maven's favourite requires a kill with another weapon first, Discord with Harmony.   tags:god-pve
+dimwishlist:item=2763843899&perks=3978468247,438098033
 
 
-// Luna's Howl
-//notes: pandapaxxy (PvP / M+KB / Controller): "I am most excited to use Luna's Howl in the crucible. Precision Instrument doesn't allow you to 2c1b 10 resilience but will allow you to get some lower resilience players. You will want to invest some points into range to really help out the low base range. Magnificent Howl does allow for some fun two taps and blinting moments to keep the chaining going." Recommended MW: Range.|tags:pvp,controller,mkb
-dimwishlist:item=2763843899&perks=3250034553,1885400500,3161816588,555281244
-dimwishlist:item=2763843899&perks=3250034553,1885400500,3161816588,1015611457
-dimwishlist:item=2763843899&perks=3250034553,1885400500,3161816588,2720533289
-dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,555281244
-dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,1015611457
-dimwishlist:item=2763843899&perks=3250034553,1885400500,699525795,2720533289
-dimwishlist:item=2763843899&perks=3250034553,1885400500,3017780555,555281244
-dimwishlist:item=2763843899&perks=3250034553,1885400500,3017780555,1015611457
-dimwishlist:item=2763843899&perks=3250034553,1885400500,3017780555,2720533289
-dimwishlist:item=2763843899&perks=3250034553,1561002382,3161816588,555281244
-dimwishlist:item=2763843899&perks=3250034553,1561002382,3161816588,1015611457
-dimwishlist:item=2763843899&perks=3250034553,1561002382,3161816588,2720533289
-dimwishlist:item=2763843899&perks=3250034553,1561002382,699525795,555281244
-dimwishlist:item=2763843899&perks=3250034553,1561002382,699525795,1015611457
-dimwishlist:item=2763843899&perks=3250034553,1561002382,699525795,2720533289
-dimwishlist:item=2763843899&perks=3250034553,1561002382,3017780555,555281244
-dimwishlist:item=2763843899&perks=3250034553,1561002382,3017780555,1015611457
-dimwishlist:item=2763843899&perks=3250034553,1561002382,3017780555,2720533289
-dimwishlist:item=2763843899&perks=1482024992,1885400500,3161816588,555281244
-dimwishlist:item=2763843899&perks=1482024992,1885400500,3161816588,1015611457
-dimwishlist:item=2763843899&perks=1482024992,1885400500,3161816588,2720533289
-dimwishlist:item=2763843899&perks=1482024992,1885400500,699525795,555281244
-dimwishlist:item=2763843899&perks=1482024992,1885400500,699525795,1015611457
-dimwishlist:item=2763843899&perks=1482024992,1885400500,699525795,2720533289
-dimwishlist:item=2763843899&perks=1482024992,1885400500,3017780555,555281244
-dimwishlist:item=2763843899&perks=1482024992,1885400500,3017780555,1015611457
-dimwishlist:item=2763843899&perks=1482024992,1885400500,3017780555,2720533289
-dimwishlist:item=2763843899&perks=1482024992,1561002382,3161816588,555281244
-dimwishlist:item=2763843899&perks=1482024992,1561002382,3161816588,1015611457
-dimwishlist:item=2763843899&perks=1482024992,1561002382,3161816588,2720533289
-dimwishlist:item=2763843899&perks=1482024992,1561002382,699525795,555281244
-dimwishlist:item=2763843899&perks=1482024992,1561002382,699525795,1015611457
-dimwishlist:item=2763843899&perks=1482024992,1561002382,699525795,2720533289
-dimwishlist:item=2763843899&perks=1482024992,1561002382,3017780555,555281244
-dimwishlist:item=2763843899&perks=1482024992,1561002382,3017780555,1015611457
-dimwishlist:item=2763843899&perks=1482024992,1561002382,3017780555,2720533289
-dimwishlist:item=2763843899&perks=1840239774,1885400500,3161816588,555281244
-dimwishlist:item=2763843899&perks=1840239774,1885400500,3161816588,1015611457
-dimwishlist:item=2763843899&perks=1840239774,1885400500,3161816588,2720533289
-dimwishlist:item=2763843899&perks=1840239774,1885400500,699525795,555281244
-dimwishlist:item=2763843899&perks=1840239774,1885400500,699525795,1015611457
-dimwishlist:item=2763843899&perks=1840239774,1885400500,699525795,2720533289
-dimwishlist:item=2763843899&perks=1840239774,1885400500,3017780555,555281244
-dimwishlist:item=2763843899&perks=1840239774,1885400500,3017780555,1015611457
-dimwishlist:item=2763843899&perks=1840239774,1885400500,3017780555,2720533289
-dimwishlist:item=2763843899&perks=1840239774,1561002382,3161816588,555281244
-dimwishlist:item=2763843899&perks=1840239774,1561002382,3161816588,1015611457
-dimwishlist:item=2763843899&perks=1840239774,1561002382,3161816588,2720533289
-dimwishlist:item=2763843899&perks=1840239774,1561002382,699525795,555281244
-dimwishlist:item=2763843899&perks=1840239774,1561002382,699525795,1015611457
-dimwishlist:item=2763843899&perks=1840239774,1561002382,699525795,2720533289
-dimwishlist:item=2763843899&perks=1840239774,1561002382,3017780555,555281244
-dimwishlist:item=2763843899&perks=1840239774,1561002382,3017780555,1015611457
-dimwishlist:item=2763843899&perks=1840239774,1561002382,3017780555,2720533289
+// Luna's Howl - Luna's Howl - Mavens Incandescent Roll (pve)
+//notes: Mavens God Roll.  She actually did some serious testing.  So in PVE Luna's Howl is probably not the go to Solar Hand Cannon.  Luna's Howl is just so much work for a damage perk that disappears (Reason players love Frenzy).  Zaouli's Bane with Explosive Payload combined Incandescent easily over-powers Luna's combos.  But Subsistence with Incandescent can be good, probably mixed with Appended Mag.  Slide shot as a reload method is just too much work.  Kill Clip would be best paired with Enlightened Action, and is good.  Desperate Measures is a perk that will probably be buffed in the future due to deserved poor reception.  Precision Instrument is very strong, and paired well with Encore for increases stability, range and importantly Accuracy to feed back into Precision Instrument.  Shockingly Maven's favourite requires a kill with another weapon first, Discord with Harmony.   tags:pve
+dimwishlist:item=2763843899&perks=1820235745,4293542123
+
+
+// Luna's Howl - Luna's Howl - Maven's PVE Kill Clip Roll (pve)
+//notes: Mavens God Roll.  She actually did some serious testing.  So in PVE Luna's Howl is probably not the go to Solar Hand Cannon.  Luna's Howl is just so much work for a damage perk that disappears (Reason players love Frenzy).  Zaouli's Bane with Explosive Payload combined Incandescent easily over-powers Luna's combos.  But Subsistence with Incandescent can be good, probably mixed with Appended Mag.  Slide shot as a reload method is just too much work.  Kill Clip would be best paired with Enlightened Action, and is good.  Desperate Measures is a perk that will probably be buffed in the future due to deserved poor reception.  Precision Instrument is very strong, and paired well with Encore for increases stability, range and importantly Accuracy to feed back into Precision Instrument.  Shockingly Maven's favourite requires a kill with another weapon first, Discord with Harmony.   tags:pve
+dimwishlist:item=2763843899&perks=3828510309,1015611457
+
+
+// Luna's Howl - Maven's Precision Instrument Roll (pve)
+//notes: Mavens God Roll.  She actually did some serious testing.  So in PVE Luna's Howl is probably not the go to Solar Hand Cannon.  Luna's Howl is just so much work for a damage perk that disappears (Reason players love Frenzy).  Zaouli's Bane with Explosive Payload combined Incandescent easily over-powers Luna's combos.  But Subsistence with Incandescent can be good, probably mixed with Appended Mag.  Slide shot as a reload method is just too much work.  Kill Clip would be best paired with Enlightened Action, and is good.  Desperate Measures is a perk that will probably be buffed in the future due to deserved poor reception.  Precision Instrument is very strong, and paired well with Encore for increases stability, range and importantly Accuracy to feed back into Precision Instrument.  (Best to pair with larger mag size and Backup Mag perk to stack damage)  Shockingly Maven's favourite requires a kill with another weapon first, Discord with Harmony.   tags:pve
+dimwishlist:item=2763843899&perks=1195158366,555281244
+
+
+// Luna's Howl - Trash Desparate MEasures (mnk)
+//notes: Mavens God Roll.  She actually did some serious testing.  So in PVE Luna's Howl is probably not the go to Solar Hand Cannon.  Luna's Howl is just so much work for a damage perk that disappears (Reason players love Frenzy).  Zaouli's Bane with Explosive Payload combined Incandescent easily over-powers Luna's combos.  But Subsistence with Incandescent can be good, probably mixed with Appended Mag.  Slide shot as a reload method is just too much work.  Kill Clip would be best paired with Enlightened Action, and is good.  Desperate Measures is a perk that will probably be buffed in the future due to deserved poor reception.  Precision Instrument is very strong, and paired well with Encore for increases stability, range and importantly Accuracy to feed back into Precision Instrument.  Shockingly Maven's favourite requires a kill with another weapon first, Discord with Harmony.   tags:mnk
+dimwishlist:item=-2763843899&perks=2109543898
+
+
+// Luna's Howl - Trash Slideshot (mnk)
+//notes: Mavens God Roll.  She actually did some serious testing.  So in PVE Luna's Howl is probably not the go to Solar Hand Cannon.  Luna's Howl is just so much work for a damage perk that disappears (Reason players love Frenzy).  Zaouli's Bane with Explosive Payload combined Incandescent easily over-powers Luna's combos.  But Subsistence with Incandescent can be good, probably mixed with Appended Mag.  Slide shot as a reload method is just too much work.  Kill Clip would be best paired with Enlightened Action, and is good.  Desperate Measures is a perk that will probably be buffed in the future due to deserved poor reception.  Precision Instrument is very strong, and paired well with Encore for increases stability, range and importantly Accuracy to feed back into Precision Instrument.  Shockingly Maven's favourite requires a kill with another weapon first, Discord with Harmony.   tags:mnk
+dimwishlist:item=-2763843899&perks=3161816588
 
 
 // Midnight Coup

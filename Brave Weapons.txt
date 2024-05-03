@@ -323,56 +323,6 @@ dimwishlist:item=2372514509&perks=1119449540,11612903
 dimwishlist:item=2372514509&perks=776531651,11612903
 
 
-// Elsie's Rifle
-//notes: pandapaxxy (PvE / M+KB / Controller): "Elsie's Rifle is a throwback to D1, and another good weapon Bungie could have brought back was Murmur, the element switching fusion *from the Moon.* Jokes aside, Elsie's Rifle is incredible. Rewind Rounds or Feeding Frenzy paired with Desperate Measures or Desperado, any combination of the above will be more than lethal. Arrowhead Brake is a must have regardless of what activity you bring this rifle into, I don't know if there's a small bug within the timelines of this rifle but having Arrowhead Brake fixes a large majority of issues." Recommended MW: Reload Speed.|tags:pve,controller,mkb
-dimwishlist:item=2372514509&perks=839105230,1087426260,3418782618,2109543898
-dimwishlist:item=2372514509&perks=839105230,1087426260,3418782618,2048641572
-dimwishlist:item=2372514509&perks=839105230,1087426260,2779035018,2109543898
-dimwishlist:item=2372514509&perks=839105230,1087426260,2779035018,3047969693
-dimwishlist:item=2372514509&perks=839105230,1087426260,2779035018,2048641572
-dimwishlist:item=2372514509&perks=839105230,1087426260,776531651,2109543898
-dimwishlist:item=2372514509&perks=839105230,1087426260,776531651,3047969693
-dimwishlist:item=2372514509&perks=839105230,1087426260,776531651,2048641572
-dimwishlist:item=2372514509&perks=839105230,1968497646,3418782618,2109543898
-dimwishlist:item=2372514509&perks=839105230,1968497646,3418782618,2048641572
-dimwishlist:item=2372514509&perks=839105230,1968497646,2779035018,2109543898
-dimwishlist:item=2372514509&perks=839105230,1968497646,2779035018,3047969693
-dimwishlist:item=2372514509&perks=839105230,1968497646,2779035018,2048641572
-dimwishlist:item=2372514509&perks=839105230,1968497646,776531651,2109543898
-dimwishlist:item=2372514509&perks=839105230,1968497646,776531651,3047969693
-dimwishlist:item=2372514509&perks=839105230,1968497646,776531651,2048641572
-dimwishlist:item=2372514509&perks=839105230,3230963543,3418782618,2109543898
-dimwishlist:item=2372514509&perks=839105230,3230963543,3418782618,2048641572
-dimwishlist:item=2372514509&perks=839105230,3230963543,2779035018,2109543898
-dimwishlist:item=2372514509&perks=839105230,3230963543,2779035018,3047969693
-dimwishlist:item=2372514509&perks=839105230,3230963543,2779035018,2048641572
-dimwishlist:item=2372514509&perks=839105230,3230963543,776531651,2109543898
-dimwishlist:item=2372514509&perks=839105230,3230963543,776531651,3047969693
-dimwishlist:item=2372514509&perks=839105230,3230963543,776531651,2048641572
-
-
-// Elsie's Rifle
-//notes: pandapaxxy (PvP / M+KB / Controller): "Like I mentioned earlier, Arrowhead Brake is a must have. This will make your two bursts far easier. Zen Moment and Headseeker allow you consistent two bursts. Depending on how that feels you might instead want Keep Away for better accuracy from a distance. Zen Moment and Kill Clip are also present, giving you some flexibility if you don't like Blast Furnace or aggressive burst pulse rifles." Recommended MW: Stability or Range.|tags:pvp,mkb,controller
-dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,460017080
-dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,2109543898
-dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,1015611457
-dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,460017080
-dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,2109543898
-dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,1015611457
-dimwishlist:item=2372514509&perks=839105230,1885400500,1870851715,460017080
-dimwishlist:item=2372514509&perks=839105230,1885400500,1870851715,2109543898
-dimwishlist:item=2372514509&perks=839105230,1885400500,1870851715,1015611457
-dimwishlist:item=2372514509&perks=839105230,1561002382,2387244414,460017080
-dimwishlist:item=2372514509&perks=839105230,1561002382,2387244414,2109543898
-dimwishlist:item=2372514509&perks=839105230,1561002382,2387244414,1015611457
-dimwishlist:item=2372514509&perks=839105230,1561002382,3619207468,460017080
-dimwishlist:item=2372514509&perks=839105230,1561002382,3619207468,2109543898
-dimwishlist:item=2372514509&perks=839105230,1561002382,3619207468,1015611457
-dimwishlist:item=2372514509&perks=839105230,1561002382,1870851715,460017080
-dimwishlist:item=2372514509&perks=839105230,1561002382,1870851715,2109543898
-dimwishlist:item=2372514509&perks=839105230,1561002382,1870851715,1015611457
-
-
 // Elsie's Rifle (DFP pvp roll)
 //notes: As picked by Destiny Fun Police.  Use a counterbalance stock, and Reload MW. tags:pvp
 dimwishlist:item=2372514509&perks=1482024992,1885400500,2387244414,3047969693
@@ -386,24 +336,6 @@ dimwishlist:item=2372514509&perks=1482024992,1885400500,2387244414,3047969693
 // Elsie's Rifle - Elsie True Vanguard Special (pve)
 //notes: Destabalising should proc Loose Change.  Giving you 20 more Aim Assist and 50 Reload Speed tags:pve
 dimwishlist:item=2372514509&perks=1119449540,2048641572
-
-
-// Elsie's Rifle - Elsie's Rifle True Vanguard Special PVP (pvp)
-//notes: These perks couple together well.  MW: Range or Reload Mod: Counterbalance Stock tags:pvp
-dimwishlist:item=2372514509&perks=2387244414,3047969693
-
-
-// Elsie's Rifle - Elsie True Vanguard Standard PVP (pvp)
-//notes: MW: Range or Reload Mod: Counterbalnce Stock tags:pvp
-dimwishlist:item=2372514509&perks=2387244414,460017080
-dimwishlist:item=2372514509&perks=2387244414,1015611457
-dimwishlist:item=2372514509&perks=3619207468,460017080
-dimwishlist:item=2372514509&perks=3619207468,1015611457
-
-
-// Elsie's Rifle - Elsie's Rifle Daniel Standard PVP (pvp)
-//notes: Break shield, kill guardians.  Simple.  MW: Range or Stability tags:pvp
-dimwishlist:item=2372514509&perks=839105230,1885400500,1870851715,1015611457
 
 
 // Elsie's Rifle - Elsie's Rifle (god-pvp)
@@ -414,70 +346,6 @@ dimwishlist:item=2372514509&perks=1467527085,1885400500,2387244414,460017080
 dimwishlist:item=2372514509&perks=1467527085,1885400500,3619207468,460017080
 
 
-// Elsie's Rifle - Elsie's Rifle (pve)
-//notes:Aztecross(https://youtu.be/5zkK-PrEw0E?si=TMJXZAwq2-xyDaA6)  Desparate measures in PVE synergises best with the origin trait tags:pve
-dimwishlist:item=2372514509&perks=3418782618,4104185692
-dimwishlist:item=2372514509&perks=3418782618,2109543898
-dimwishlist:item=2372514509&perks=776531651,4104185692
-dimwishlist:item=2372514509&perks=776531651,2109543898
-dimwishlist:item=2372514509&perks=776531651,3047969693
-
-
-// Elsie's Rifle
-//notes: pandapaxxy (PvE / M+KB / Controller): "Elsie's Rifle is a throwback to D1, and another good weapon Bungie could have brought back was Murmur, the element switching fusion *from the Moon.* Jokes aside, Elsie's Rifle is incredible. Rewind Rounds or Feeding Frenzy paired with Desperate Measures or Desperado, any combination of the above will be more than lethal. Arrowhead Brake is a must have regardless of what activity you bring this rifle into, I don't know if there's a small bug within the timelines of this rifle but having Arrowhead Brake fixes a large majority of issues." Recommended MW: Reload Speed.|tags:pve,controller,mkb
-dimwishlist:item=2372514509&perks=839105230,1087426260,3418782618,2109543898
-dimwishlist:item=2372514509&perks=839105230,1087426260,3418782618,2048641572
-dimwishlist:item=2372514509&perks=839105230,1087426260,2779035018,2109543898
-dimwishlist:item=2372514509&perks=839105230,1087426260,2779035018,3047969693
-dimwishlist:item=2372514509&perks=839105230,1087426260,2779035018,2048641572
-dimwishlist:item=2372514509&perks=839105230,1087426260,776531651,2109543898
-dimwishlist:item=2372514509&perks=839105230,1087426260,776531651,3047969693
-dimwishlist:item=2372514509&perks=839105230,1087426260,776531651,2048641572
-dimwishlist:item=2372514509&perks=839105230,1968497646,3418782618,2109543898
-dimwishlist:item=2372514509&perks=839105230,1968497646,3418782618,2048641572
-dimwishlist:item=2372514509&perks=839105230,1968497646,2779035018,2109543898
-dimwishlist:item=2372514509&perks=839105230,1968497646,2779035018,3047969693
-dimwishlist:item=2372514509&perks=839105230,1968497646,2779035018,2048641572
-dimwishlist:item=2372514509&perks=839105230,1968497646,776531651,2109543898
-dimwishlist:item=2372514509&perks=839105230,1968497646,776531651,3047969693
-dimwishlist:item=2372514509&perks=839105230,1968497646,776531651,2048641572
-dimwishlist:item=2372514509&perks=839105230,3230963543,3418782618,2109543898
-dimwishlist:item=2372514509&perks=839105230,3230963543,3418782618,2048641572
-dimwishlist:item=2372514509&perks=839105230,3230963543,2779035018,2109543898
-dimwishlist:item=2372514509&perks=839105230,3230963543,2779035018,3047969693
-dimwishlist:item=2372514509&perks=839105230,3230963543,2779035018,2048641572
-dimwishlist:item=2372514509&perks=839105230,3230963543,776531651,2109543898
-dimwishlist:item=2372514509&perks=839105230,3230963543,776531651,3047969693
-dimwishlist:item=2372514509&perks=839105230,3230963543,776531651,2048641572
-
-
-// Elsie's Rifle
-//notes: pandapaxxy (PvP / M+KB / Controller): "Like I mentioned earlier, Arrowhead Brake is a must have. This will make your two bursts far easier. Zen Moment and Headseeker allow you consistent two bursts. Depending on how that feels you might instead want Keep Away for better accuracy from a distance. Zen Moment and Kill Clip are also present, giving you some flexibility if you don't like Blast Furnace or aggressive burst pulse rifles." Recommended MW: Stability or Range.|tags:pvp,mkb,controller
-dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,460017080
-dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,2109543898
-dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,1015611457
-dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,460017080
-dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,2109543898
-dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,1015611457
-dimwishlist:item=2372514509&perks=839105230,1885400500,1870851715,460017080
-dimwishlist:item=2372514509&perks=839105230,1885400500,1870851715,2109543898
-dimwishlist:item=2372514509&perks=839105230,1885400500,1870851715,1015611457
-dimwishlist:item=2372514509&perks=839105230,1561002382,2387244414,460017080
-dimwishlist:item=2372514509&perks=839105230,1561002382,2387244414,2109543898
-dimwishlist:item=2372514509&perks=839105230,1561002382,2387244414,1015611457
-dimwishlist:item=2372514509&perks=839105230,1561002382,3619207468,460017080
-dimwishlist:item=2372514509&perks=839105230,1561002382,3619207468,2109543898
-dimwishlist:item=2372514509&perks=839105230,1561002382,3619207468,1015611457
-dimwishlist:item=2372514509&perks=839105230,1561002382,1870851715,460017080
-dimwishlist:item=2372514509&perks=839105230,1561002382,1870851715,2109543898
-dimwishlist:item=2372514509&perks=839105230,1561002382,1870851715,1015611457
-
-
-// Elsie's Rifle (DFP pvp roll)
-//notes: As picked by Destiny Fun Police.  Use a counterbalance stock, and Reload MW. tags:pvp
-dimwishlist:item=2372514509&perks=1482024992,1885400500,2387244414,3047969693
-
-
 // Elsie's Rifle (True Vanguard pvp roll)
 //notes: As picked by True Vanguard.  This pulse has 35 base stat points more than Messenger, slightly less range but way more stability and handling.  MW:Range or Reload.  tags:pvp
 dimwishlist:item=2372514509&perks=1482024992,1885400500,2387244414,3047969693
@@ -501,11 +369,6 @@ dimwishlist:item=2372514509&perks=3619207468,460017080
 dimwishlist:item=2372514509&perks=3619207468,1015611457
 
 
-// Elsie's Rifle - Elsie's Rifle Daniel Standard PVP (pvp)
-//notes: Break shield, kill guardians.  Simple.  MW: Range or Stability tags:pvp
-dimwishlist:item=2372514509&perks=839105230,1885400500,1870851715,1015611457
-
-
 // Elsie's Rifle - Elsie's Rifle (god-pvp)
 //notes: Aztecross(https://youtu.be/5zkK-PrEw0E?si=TMJXZAwq2-xyDaA6)  Only going to get better as the perks will be enhanceable in the Final Shape. tags:god-pvp
 dimwishlist:item=2372514509&perks=1467527085,1561002382,2387244414,460017080
@@ -513,14 +376,6 @@ dimwishlist:item=2372514509&perks=1467527085,1561002382,3619207468,460017080
 dimwishlist:item=2372514509&perks=1467527085,1885400500,2387244414,460017080
 dimwishlist:item=2372514509&perks=1467527085,1885400500,3619207468,460017080
 
-
-// Elsie's Rifle - Elsie's Rifle (pve)
-//notes: Aztecross(https://youtu.be/5zkK-PrEw0E?si=TMJXZAwq2-xyDaA6)  Desparate measures in PVE synergises best with the origin trait tags:pve
-dimwishlist:item=2372514509&perks=3418782618,4104185692
-dimwishlist:item=2372514509&perks=3418782618,2109543898
-dimwishlist:item=2372514509&perks=776531651,4104185692
-dimwishlist:item=2372514509&perks=776531651,2109543898
-dimwishlist:item=2372514509&perks=776531651,3047969693
 
 //Elsie's Rifle God Awful Combo
 //notes: Rewind rounds actively fights Desparado.  You're much better off with a Despardo with a reloading perk.  Keep Away or Feeding Frenzy

@@ -767,6 +767,12 @@ dimwishlist:item=1896309757&perks=3250034553,1968497646,1870851715,1890422124
 //notes:  Shiny roll of Hung Jury SR4.  No real difference, but I would not delete it until Final Shape
 dimwishlist:item=205225492
 
+// Hung Jury SR4
+//notes:  Shoot to Loot is a fantastic high end PVE activity perk.  Bungie moved KT to column 3, which has ruled out the previous God Roll of S2L with KT, which with KT's AoE used to automatically pick up all orbs and ammo bricks in the area.  Maybe Firefly can do this too (Haven't got that roll).  One for All is a 10 s buff at 35%, requires work to proc, but 35% is good.  Explosive Payload seems great against tankier targets, so this is probably worthwhile.  MW: Stability, Handling, Reload, and Range in that order.
+dimwishlist:item=1453235079&perks=3700496672,4049631843
+dimwishlist:item=1453235079&perks=3700496672,3824105627
+dimwishlist:item=1453235079&perks=3700496672,3038247973
+
 
 // Hung Jury SR4 - Hung Jury SR4 Light Subclass Grenade build (god-pve)
 //notes: Well, stuck in the Kinetic slot without Osmosis or Permeability sort of rules this out for Dark classes, with one possible exception.  See, I need to check what nastiness the Warlocks Chromatic Fire exotic chest piece will do to this weapon.  For mass killing, KT FF and EP seem the best options.  The combinations of KT with either FF or EP does have it's quirks, so I wonder if subclass effects will suffer the same fate.  Here's hoping it doesn't.  Loose Change seems like a great idea, so let's pair that with Box Breathing so that Aim Assist jumps from 67 to 97% almost instantly (Oh god I hope Chromatic Fire works) tags:god-pve
